@@ -1,0 +1,33 @@
+#!/usr/bin/env bash
+cd .
+pwd
+mkdir log
+variable=abc
+case "$variable" in
+  abc)  echo "\$variable = abc" ;;
+  xyz)  echo "\$variable = xyz" ;;
+esac#!/usr/bin/env bash
+a=$PWD
+echo $a
+#!/usr/bin/env bash
+cd .
+pwd
+mkdir log
+variable=abc
+case "$variable" in
+  abc)  echo "\$variable = abc" ;;
+  xyz)  echo "\$variable = xyz" ;;
+esac#!/usr/bin/env bash
+a=$PWD
+echo $a
+#!/usr/bin/env bash
+cd .
+pwd
+mkdir log
+variable=abc
+case "$variable" in
+  abc)  echo "\$variable = abc" ;;
+  xyz)  echo "\$variable = xyz" ;;
+esac#!/usr/bin/env bash
+a=$PWD
+echo $a

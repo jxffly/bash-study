@@ -1,0 +1,15 @@
+total 8
+-rw-r--r--  1 jinxiaofei  staff   0 Aug 25 09:13 err_result
+-rwxr-xr-x  1 jinxiaofei  staff  64 Aug 25 09:29 lesson001-hello.sh
+-rw-r--r--  1 jinxiaofei  staff   0 Aug 25 09:29 ls_result
+-rw-r--r--  1 jinxiaofei  staff   0 Aug 25 09:41 lsresult
+total 16
+-rw-r--r--  1 jinxiaofei  staff    0 Aug 25 09:13 err_result
+-rwxr-xr-x  1 jinxiaofei  staff   64 Aug 25 09:29 lesson001-hello.sh
+-rw-r--r--  1 jinxiaofei  staff    0 Aug 25 09:29 ls_result
+-rw-r--r--  1 jinxiaofei  staff  253 Aug 25 09:41 lsresult
+total 16
+-rw-r--r--  1 jinxiaofei  staff    0 Aug 25 09:13 err_result
+-rwxr-xr-x  1 jinxiaofei  staff   64 Aug 25 09:29 lesson001-hello.sh
+-rw-r--r--  1 jinxiaofei  staff    0 Aug 25 09:29 ls_result
+-rw-r--r--  1 jinxiaofei  staff  511 Aug 25 09:41 lsresult
